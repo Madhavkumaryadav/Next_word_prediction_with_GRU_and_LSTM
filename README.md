@@ -4,6 +4,8 @@
 
 **A deep learning NLP project that predicts the next word in a sentence using recurrent neural networks, served through a modern Streamlit web app.**
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nextwordpredictionwithgruandlstm-pu3mdmcb7ksxduy7hjkc5y.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -11,6 +13,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
+[Live Demo](#-live-demo) •
 [Overview](#-overview) •
 [Features](#-features) •
 [Tech Stack](#-tech-stack) •
@@ -21,6 +24,16 @@
 [Contact](#-contact)
 
 </div>
+
+---
+
+## 🌐 Live Demo
+
+Try the app right now in your browser, no installation needed:
+
+### 👉 [**Open the Live App**](https://nextwordpredictionwithgruandlstm-pu3mdmcb7ksxduy7hjkc5y.streamlit.app/)
+
+> ⏳ The app is hosted on Streamlit Community Cloud. If it has been idle, it may take a few seconds to wake up.
 
 ---
 
@@ -152,7 +165,7 @@ Raw Text → Tokenization → N-gram Sequences → Padding → Embedding → LST
 - [ ] Add the GRU model as a selectable option in the app
 - [ ] Train on a larger, more diverse corpus
 - [ ] Add a Transformer-based baseline for comparison
-- [ ] Deploy on Streamlit Community Cloud
+- [x] Deploy on Streamlit Community Cloud
 
 ## 🤝 Contributing
 
@@ -173,6 +186,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **Madhav Yadav**
 
 [![Email](https://img.shields.io/badge/Email-ymadhav081%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ymadhav081@gmail.com)
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://nextwordpredictionwithgruandlstm-pu3mdmcb7ksxduy7hjkc5y.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Madhavkumaryadav-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhavkumaryadav)
 
 ---
